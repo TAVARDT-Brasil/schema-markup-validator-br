@@ -2,6 +2,7 @@
 
 [![Validador Schema](https://img.shields.io/badge/TAVARDT-Schema.org%20Validator-5b3cf5.svg)](https://tools.tavardt.com/br/validador-schema-markup/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Auditoria tecnica de marcacao semantica Schema.org em formato JSON-LD e Microdata, validacao de tipos, entidades e elegibilidade para Rich Snippets.
 
@@ -48,6 +49,20 @@ Para validacao visual e teste em lote de estruturas de dados:
 ## Consultoria em Arquitetura Semantica e SEO
 
 Para projetos de estruturacao de dados complexos e conformidade com Diretrizes de Dados Estruturados e Boas Praticas SEO, contate os engenheiros da **TAVARDT**.
+
+***
+
+## Governança e Soberania
+
+* **Unidade Soberana**: **TAVARDT Brasil** (`TAVARDT-Brasil`)
+* **Normas Centrais**: [00-core Governança](https://github.com/TAVARDT-Brasil/00-core)
+* **Central de Diagnósticos**: **Central de Ferramentas TAVARDT**
+* **Segurança Corporativa**: [TAVARDT Cibersegurança](https://ag.tavardt.com/br/ciberseguranca/)
+
+***
+
+### Licença
+Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
 
 ***
 
