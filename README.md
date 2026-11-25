@@ -60,6 +60,8 @@ Para projetos de estruturacao de dados complexos e conformidade com Diretrizes d
 
 ***
 
+***
+
 ### Licença
 Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
 
